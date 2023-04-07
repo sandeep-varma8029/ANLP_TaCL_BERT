@@ -27,3 +27,29 @@ Ensure that you have the following software installed on your system:
 
 ```bash
 git clone https://github.com/sandeep-varma8029/ANLP_TaCL_BERT.git
+```
+2. Navigate to the cloned repository:
+```bash
+cd ANLP_TaCL_BERT
+```
+3. Install the required Python packages using pip:
+```bash
+pip install -r requirements.txt
+
+```
+## Running the Local Notebook
+1. Launch Jupyter Notebook:
+```
+jupyter notebook
+```
+2. Open the ANLP_TACL_BERT_Squad.ipynb notebook from the Jupyter Notebook interface.
+
+3. Follow the instructions in the notebook to train and evaluate the BERT model on the SQuAD dataset.
+
+## Running the Google Colab Notebook
+1. Open the Google Colab Notebook.
+
+2. If you have a Google account, save a copy of the notebook to your Google Drive by clicking File > Save a copy in Drive.
+
+3. Follow the instructions in the notebook to train and evaluate the BERT model on the SQuAD dataset.
+
